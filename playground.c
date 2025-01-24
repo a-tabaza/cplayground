@@ -7,10 +7,12 @@ int main(int argc, char* argv[], char* envp[]) {
 		exit(0);
 	}
 	else if (argc > 2) {
+		printf("usage: ./playground <case_id>");
+		exit(0);
+
 	}
-	char* end;
 	const char *arg_string = argv[1];
-	long int i = strtol(arg_string, &end, 10);
+	long int i = strtol(arg_string, NULL, 10);
 	switch (i) {
 		case 1:
 			printf("FUCK YOU!");
