@@ -1,5 +1,5 @@
 # cplayground
-This year I realized I was working on something, and GitHub Copilot was acting up, and I started to get frustrated, I was just staring at the new empty line like a dum dum waiting for the autocomplete to load.
+This year I realized while I was working on something, GitHub Copilot wasn't Copiloting, and I started to get frustrated, I was just staring at the new empty line like a dum dum waiting for the autocomplete to load.
 
 So in the name of polar extremes, this year will be the year of git using the terminal (I used it through vscode before), nano instead of vscode, and from scratch implementations of the shit I used to do in python using C.
 
