@@ -12,4 +12,15 @@ I will either emerge from this venture vowing to never touch software again, or 
 	- the most minimal of dependencies ever, if I need a parser, I'll use someone else's, data structures, I'll try writing them myself, but going off of a reference implementation.
 
 # motivation
-Turns out it's possible to enjoy programming. Ik it's hard to believe but you check it out on YouTube, some people actually enjoy this! Blasphemous, but leaves much to ponder about.
+Turns out it's possible to enjoy programming. Ik it's hard to believe but you can check it out on YouTube, some people actually enjoy this! Blasphemous, but leaves much to ponder about.
+
+# projects I want to do
+## ndexer
+ndexer is a notebook indexer, n sounds like in, but actually n stads for notebooks here, so very sanely and in conformance with society and norms, its called ndexer, not to be confused with just an indexer, because again, this is for notebook indexing.
+
+I want a command line tool to index python notebooks, and other jupyter derivates because ik deno now has a kernel so JS notebooks :snow_white_in_assylum_clapping:
+
+This will give me a chance to implement TF-IDF and bm25 from scratch and learn some optimization shit in C, also SQLite probably.
+
+## onnx_runner
+I want a stable docker container that just takes in the path to an onnx model and serves it via a rest api or ideally grpc, just onnx_path in, serving output out.
